@@ -7,6 +7,12 @@ Inbox Management: Organize and prioritize your messages.
 Multi-channel Integration: Connect with multiple communication platforms.
 User-Friendly Interface: Intuitive design for ease of use.
 Customizable Settings: Tailor the application to your preferences.
+
+
+# Video Explanation Link
+https://www.loom.com/share/d8f689cacbf94ba09bf20b3c3b32855b?sid=fac15550-f679-43ee-b6b9-4bd29f22b6b9
+
+
 Installation
 To get started with ReachInbox, follow these steps:
 
