@@ -65,7 +65,7 @@ Feel free to customize this template to better fit your project’s specific det
 
 
 
-# Output
+# Screenshots Of My Project 
 ![Screenshot 2024-08-14 070332](https://github.com/user-attachments/assets/ef9bfaff-9b14-4558-9024-c6a44816d120)
 ![Screenshot 2024-08-14 070429](https://github.com/user-attachments/assets/57c972d0-b5da-405d-a8d4-ca0578795a17)
 ![Screenshot 2024-08-14 070444](https://github.com/user-attachments/assets/89dcb070-7240-44c1-a999-231b8fd0fb3e)
@@ -75,6 +75,54 @@ Feel free to customize this template to better fit your project’s specific det
 ![Screenshot 2024-08-14 070618](https://github.com/user-attachments/assets/f14514d8-f4cc-4981-bfd8-11b62bff562b)
 ![Screenshot 2024-08-14 070647](https://github.com/user-attachments/assets/57102dc8-7ce3-438d-9b67-d8c718e3bd8e)
 
+
+Node.js:
+
+Purpose: Provides the runtime environment for executing JavaScript code on the server side.
+Installation: Download and install from the official Node.js website.
+npm (Node Package Manager):
+
+Purpose: Manages project dependencies and scripts. npm is included with the Node.js installation.
+Installation: Automatically installed with Node.js.
+MongoDB:
+
+Purpose: Serves as the database for storing user data and application state.
+Installation: Follow the MongoDB installation guide for your operating system.
+React.js:
+
+Purpose: Provides the framework for building the frontend of the application.
+Installation: Typically installed via npm with the command npx create-react-app or added as a dependency in the project’s package.json.
+Express.js:
+
+Purpose: Acts as the web server framework for handling HTTP requests on the backend.
+Installation: Install using npm with the command npm install express.
+Tailwind CSS:
+
+Purpose: Offers a utility-first CSS framework for styling the application.
+Installation: Install via npm with the command npm install tailwindcss.
+Git:
+
+Purpose: Version control system for managing and tracking changes to the project codebase.
+Installation: Download and install from the official Git website.
+Other Dependencies:
+
+Purpose: Any additional libraries or tools required by the project.
+Installation: Install them using npm as specified in the project’s package.json file, typically with the command npm install.
+Setup Steps:
+
+Clone the Repository:
+
+Run git clone https://github.com/Shreyanshbajpai/reachInbox_Shriyansh to clone the project from GitHub.
+Navigate to Project Directory:
+
+Use cd reachInbox_Shriyansh to enter the project folder.
+Install Dependencies:
+
+Run npm install to install all required npm packages.
+Start the Application:
+
+Use npm start to launch the development server and access the application in your web browser.
+By following these installation steps and setting up the necessary components, you'll be able to run and develop the ReachInbox project effectively.
 
 
 
