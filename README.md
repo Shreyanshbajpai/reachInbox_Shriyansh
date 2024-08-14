@@ -66,13 +66,21 @@ Feel free to customize this template to better fit your project’s specific det
 
 
 # Screenshots Of My Project 
+
 ![Screenshot 2024-08-14 070332](https://github.com/user-attachments/assets/ef9bfaff-9b14-4558-9024-c6a44816d120)
+
 ![Screenshot 2024-08-14 070429](https://github.com/user-attachments/assets/57c972d0-b5da-405d-a8d4-ca0578795a17)
+
 ![Screenshot 2024-08-14 070444](https://github.com/user-attachments/assets/89dcb070-7240-44c1-a999-231b8fd0fb3e)
+
 ![Screenshot 2024-08-14 070503](https://github.com/user-attachments/assets/0f2c3941-fbeb-4326-b599-f1cb7c290b3f)
+
 ![Screenshot 2024-08-14 070537](https://github.com/user-attachments/assets/cbd5a69b-ba33-4ba5-9d0e-684692792c8f)
+
 ![Screenshot 2024-08-14 070552](https://github.com/user-attachments/assets/df5429ff-e4e5-407e-97a1-49aa0d59e1ef)
+
 ![Screenshot 2024-08-14 070618](https://github.com/user-attachments/assets/f14514d8-f4cc-4981-bfd8-11b62bff562b)
+
 ![Screenshot 2024-08-14 070647](https://github.com/user-attachments/assets/57102dc8-7ce3-438d-9b67-d8c718e3bd8e)
 
 
